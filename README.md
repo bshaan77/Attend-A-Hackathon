@@ -19,7 +19,7 @@ Hackathons like to choose themes for their events; Some popular themes include I
 ### Activities: 
 Hackathons are not just about coding and building a project non-stop. There are tons of other things that you can do as well. Most hackathons will have workshops to learn new skills and technologies and speakers to help motivate you on your projects. In addition to that, sponsors and companies sometimes demo their products. Some cool things that I had gotten the chance to demo at hackathons include VR games/demos, beta app testing, chrome extensions, and many other things. 
 
-###Prizes: 
+### Prizes: 
 With all Hackathons, your project will be judged at the end of the event. Most hackathons have industry professionals who judge projects and can help give you advice on your projects. Prizes are given based on the best overall projects or use of certain technologies.
 
 ## Why you should attend
